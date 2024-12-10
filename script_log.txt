@@ -1,0 +1,4 @@
+[2024-12-09 10:10:37] Error fetching URL (https://example.com/api/channels):  (HTTP code: 404)
+[2024-12-09 10:10:37] Failed to fetch data from API.
+[2024-12-09 10:12:02] Error parsing JSON data.
+[2024-12-09 10:12:02] Failed to parse channels from API response.
